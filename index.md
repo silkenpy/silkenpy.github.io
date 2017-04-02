@@ -9,6 +9,6 @@
     </i>
     <br/>
    </p>
-   <pre> <font size="18"> <a href="home.md"> Home </a><a href="photos.md"> Photos </a><a href="archives.md"> Archives </a><a href="contact.md"> Contact </a></font></pre>
+   <pre> <font size="10"> <a href="home.md"> Home </a><a href="photos.md"> Photos </a><a href="archives.md"> Archives </a><a href="contact.md"> Contact </a></font></pre>
    <br/>
   </center>
