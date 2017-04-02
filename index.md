@@ -11,8 +11,9 @@
    </p>
    <pre> <font size="5"> <a href="home.md"> Home </a><a href="photos.md"> Photos </a><a href="archives.md"> Archives </a><a href="contact.md"> Contact </a></font></pre>
    <br/>
-   <a id="rss" href=feed.xml> <img id=rss-icon src=/images/feed-icon.png></a>
- 
+
+<a href="feed.xml"><img src="/images/feed-icon.png" alt="Subscribe to What's New"></a>
+
 </center>
 ## dstat
 dstat is the best or one of the best command line tools that helps you monitor your system as simple as possible.
