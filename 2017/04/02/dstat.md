@@ -9,11 +9,13 @@
       </i>
       <br/>
    </p>
-   <pre> <font size="5"> <a href="home.md"> Home </a><a href="photos.md"> Photos </a><a href="archives.md"> Archives </a><a href="contact.md"> Contact </a> <a href="feed.xml"><img src="/images/feed-icon.png" alt="Subscribe to What's New"></a>
+   <pre> <font size="5"> <a href="/home.md"> Home </a><a href="/photos.md"> Photos </a><a href="/archives.md"> Archives </a><a href="/contact.md"> Contact </a> <a href="/feed.xml"><img src="/images/feed-icon.png" alt="Subscribe to What's New"></a>
 </font></pre>
    <br/>
 </center>
 ## dstat
+Sunday, 02. April 2017 11:28PM 
+
 dstat is the best or one of the best command line tools that helps you monitor your system as simple as possible.
 
 ```shell
