@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="/images/favicon.ico">
 <center>
    <p>
       <img alt="silkenpy logo" src="/images/silkenpy.svg"/>
