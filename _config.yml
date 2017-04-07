@@ -1,0 +1,15 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               silkenpy
+tagline:             'DevOps'
+description:         'A blog to talk about Devops and other things'
+url:                 http://silkenpy.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Ali Abri
+  email:             silkenpy@gmail.com
+
