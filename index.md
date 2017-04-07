@@ -1,7 +1,9 @@
+  <head>
   <title>
     Silkenpy 
   </title>
 <link rel="shortcut icon" href="/images/favicon.ico">
+</head>
 <center>
    <p>
       <img alt="silkenpy logo" src="/images/silkenpy.svg"/>
