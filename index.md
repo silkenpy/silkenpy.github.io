@@ -1,13 +1,12 @@
 <center>
    <p>
-      <img alt="silkenpy logo" src="/images/silkenpy.svg"/>
+      <img alt="silkenpy logo" src="/images/silkenpy.png"/>
       <br/>
    </p>
    <p>
       <i>
       Simplicity is the Best
       </i>
-      <br/>
    </p>
    <pre> <font size="5"> <a href="/"> Home </a><a href="/photos.md"> Photos </a><a href="/archives.md"> Archives </a><a href="/contact.md"> Contact </a> <a href="/feed.xml"><img src="/images/feed-icon.png" alt="Subscribe to What's New"></a>
 </font></pre>
