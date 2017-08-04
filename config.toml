@@ -1,3 +1,8 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+
 languageCode = "en-us"
 title = "Silkenpy"
 baseURL = "http://silkenpy.tk/"
