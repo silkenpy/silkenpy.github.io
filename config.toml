@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Silkenpy"
-baseURL = "http://silkenpy.tk/"
+baseURL = "https://silkenpy.github.io/"
 theme = "blackburn"
 
 [indexes]
