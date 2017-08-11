@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Silkenpy</title>
+    <link>http://localhost:1313/post/index.xml</link>
+    <description>Recent content in Posts on Silkenpy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2017 17:06:53 +0430</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my first post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Fri, 11 Aug 2017 17:06:53 +0430</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
