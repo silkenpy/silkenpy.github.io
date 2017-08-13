@@ -2,11 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silkenpy</title>
-    <link>http://localhost:1313/index.xml</link>
+    <link>http://silkenpy.tk/index.xml</link>
     <description>Recent content on Silkenpy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2017 17:19:28 +0430</lastBuildDate>
+    <atom:link href="http://silkenpy.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>http://silkenpy.tk/contact/</link>
+      <pubDate>Fri, 04 Aug 2017 17:19:28 +0430</pubDate>
+      
+      <guid>http://silkenpy.tk/contact/</guid>
+      <description>&lt;p&gt;Simply send your emails to me !&lt;/p&gt;
+
+&lt;p&gt;silkenpy at gmail.com&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dstat</title>
+      <link>http://silkenpy.tk/post/dstat/</link>
+      <pubDate>Fri, 04 Aug 2017 16:45:48 +0430</pubDate>
+      
+      <guid>http://silkenpy.tk/post/dstat/</guid>
+      <description>&lt;p&gt;dstat is the best and simplest way to monitor everything in linux.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;ali@silken:~$ dstat -tams -Dsda -Nwlan1
+----system---- ----total-cpu-usage---- --dsk/sda-- -net/wlan1- ---paging-- ---system-- ------memory-usage----- ----swap---
+     time     |usr sys idl wai hiq siq| read  writ| recv  send|  in   out | int   csw | used  buff  cach  free| used  free
+04-08 20:04:59| 14   4  81   1   0   0|  37k   48k|   0     0 |   0     0 | 297  1170 |1712M  133M  972M  988M|   0   999M
+04-08 20:05:00|  4   1  95   0   0   0|   0    12k|  62k 2395B|   0     0 | 371  1263 |1712M  133M  972M  989M|   0   999M
+04-08 20:05:01|  2   1  97   0   0   0|   0     0 |  61k 2245B|   0     0 | 303  1017 |1713M  133M  972M  987M|   0   999M
+04-08 20:05:02|  2   2  97   0   0   0|   0     0 |  61k 2248B|   0     0 | 327   984 |1714M  133M  972M  986M|   0   999M
+04-08 20:05:03|  1   1  99   0   0   0|   0     0 |  62k 2251B|   0     0 | 296   944 |1714M  133M  972M  986M|   0   999M
+04-08 20:05:04|  1   1  98   0   0   0|   0     0 |  60k 2343B|   0     0 | 272   882 |1714M  133M  972M  986M|   0   999M
+04-08 20:05:05|  2   1  97   0   0   0|   0     0 |  65k 1867B|   0     0 | 352  1139 |1714M  133M  972M  986M|   0   999M
+04-08 20:05:06|  2   1  97   0   0   0|   0    40k|  75k 2472B|   0     0 | 342  1035 |1714M  133M  972M  986M|   0   999M^C
+ali@silken:~$
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
