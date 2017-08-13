@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "LoveYaLikeASister";
+    src: url(LoveYaLikeASister.ttf);
+}
+
 .header {
-  font-family: "Raleway", Helvetica, Arial, sans-serif
+  font-family:  "courier"
 }
 
 a {
@@ -48,8 +53,7 @@ article > footer {
 }
 
 #menu .brand {
-  font-family: Raleway;
-  font-weight: bold;
+  font-family: LoveYaLikeASister;
   font-size: 1em;
   letter-spacing: 0.1em;
   text-transform: none;
